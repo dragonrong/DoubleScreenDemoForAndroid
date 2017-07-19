@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorGrey1">#A000</color>
+    <color name="colorGrey2">#6000</color>
+    <color name="colorGrey3">#3000</color>
+    <color name="colorGrey4">#3b3b3b</color>
+    <color name="colorGrey5">#2e2e2e</color>
+    <color name="colorGrey6">#6c6c6c</color>
+    <color name="colorGrey7">#464646</color>
+    <color name="colorGrey8">#dadada</color>
+    <color name="colorGrey9">#202020</color>
+    <color name="colorGrey10">#767676</color>
+    <color name="colorGrey11">#b4b4b4</color>
+    <color name="colorBlue1">#08f</color>
+    <color name="colorBlue2">#00f</color>
+    <color name="colorBlue3">#5a7cac</color>
+    <color name="colorBlue4">#a9c7ff</color>
+    <color name="colorBlue5">#477fe5</color>
+    <color name="colorBlue6">#2a66d4</color>
+    <color name="colorGreen">#0f0</color>
+    <color name="colorGreen1">#2fac71</color>
+    <color name="colorRed">#f00</color>
+    <color name="colorRed2">#e24f3f</color>
+    <color name="colorOrange">#ffa500</color>
+    <color name="colorYello">#ffe400</color>
+    <color name="colorWhite">#fff</color>
+    <color name="colorWhite2">#fefefe</color>
+    <color name="colorWhiteBlue">#300f</color>
+    <color name="colorGreenDark">#9911402a</color>
+    <color name="colorGreenDark2">#238155</color>
+</resources>

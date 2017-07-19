@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">双屏Demo</string>
+
+
+
+
+    <string name="presentation_with_media_router_now_playing_remotely">Now playing on secondary display \'%s\'.</string>
+    <string name="presentation_with_media_router_now_playing_locally">Now playing on main display \'%s\'.</string>
+</resources>
