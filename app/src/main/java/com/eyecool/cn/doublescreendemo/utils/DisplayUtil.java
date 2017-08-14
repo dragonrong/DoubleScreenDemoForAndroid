@@ -33,7 +33,7 @@ public class DisplayUtil {
         //开启副屏幕
         switch (uiId) {
             case Constants.UI_MAIN_CODE:
-//                 display = new SecondDisplayMain(context, display1);
+//                 display = new SecondDisplay(context, display1,);
                 break;
             case Constants.UI_CHECK_FACE_CODE:
                 display = new SecondDisplayCheckFace(context,display1,cameraId,handler);

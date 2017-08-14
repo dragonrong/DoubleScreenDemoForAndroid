@@ -42,6 +42,7 @@ public interface Constants {
     int READ_IDCARD_STATE_REPLACE = 2;
     int READ_IDCARD_STATE_ERROR = 3;
 
+    //大的访客机上，大屏幕侧的摄像头为后置摄像头
     int CAMERA_BACK_ID = 0;
     int CAMERA_FRONT_ID = 1;
 
